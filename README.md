@@ -1,6 +1,6 @@
 # shop
 
-> A Vue.js project
+> A Vue.js project building by  Vue, Vue-Router, Axios, Koa, MongoDB, Mongoose.
 
 ## Build Setup
 
